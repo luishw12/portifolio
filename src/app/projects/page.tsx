@@ -17,7 +17,7 @@ export default function Projects() {
         />
         <ProjectContainer
           image={Cobranca}
-          link="https://portal-api.dynaduo.com.br"
+          link=""
           text="Website desenvolvido na empresa em que prestava serviço."
         />
         <ProjectContainer
