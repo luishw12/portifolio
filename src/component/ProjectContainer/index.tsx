@@ -10,7 +10,7 @@ interface Props {
 
 export function ProjectContainer({ image, alt = "Banner", text, link }: Props) {
   return (
-    <div className="relative group overflow-hidden rounded-2xl">
+    <div className="relative group overflow-hidden rounded-2xl bg-gray-300">
       <Image
         src={image}
         alt={alt}
