@@ -29,6 +29,7 @@ export default function Start() {
       <Link
         href="https://www.linkedin.com/in/lu%C3%ADs-henrique-wendt-2a23a6269/"
         className="w-full flex align-center justify-center p-3 rounded-full border-2 border-purple-700 font-semibold text-purple-700 hover:text-white hover:bg-purple-700 duration-200 text-lg"
+        target="_blank"
       >
         LinkedIn
       </Link>
