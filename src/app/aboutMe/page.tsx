@@ -13,10 +13,10 @@ export default function AboutMe() {
             então.
           </p>
           <p>
-            Atualmente, estou prestes a concluir o ensino fundamental. Desde
-            cedo, mergulhei no mundo da programação e tive a oportunidade de
-            colaborar com uma empresa por mais de um ano, buscando soluções
-            criativas para problemas reais.
+            Atualmente, estou prestes a concluir o ensino médio. Desde cedo,
+            mergulhei no mundo da programação e tive a oportunidade de colaborar
+            com uma empresa por mais de um ano, buscando soluções criativas para
+            problemas reais.
           </p>
           <p>
             Minha especialização é em front-end, onde adoro trabalhar com HTML,
