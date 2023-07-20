@@ -23,7 +23,7 @@ export default function Projects() {
         <ProjectContainer
           image={DsTosha}
           link="https://ds-toshyro-deploy-luishw12.vercel.app/"
-          text="Design System desenvolvido também na empresa que eu prestei serviço, feito com o intúito de padronizar e facilitar a criação de CRUDs."
+          text="Design System desenvolvido também na empresa que eu prestei serviço, feito com o intuito de padronizar e facilitar a criação de CRUDs."
         />
       </div>
     </div>
